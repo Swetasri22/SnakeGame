@@ -8,3 +8,9 @@ https://drive.google.com/drive/folders/1Trh8cnIy_tpDuRsKwlz3zEcqPEwd2GPQ?usp=sha
 
 Project snip:
 
+![snip1](https://github.com/Swetasri22/SnakeGame/assets/137181845/56cee372-15cf-4351-a208-f002b9403509)
+
+
+![snip2](https://github.com/Swetasri22/SnakeGame/assets/137181845/e5db8699-d58b-4374-86ae-0305b9ef76dc)
+
+
